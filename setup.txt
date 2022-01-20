@@ -1,0 +1,5 @@
+Setup instructions
+create-react-native-app mvw
+delete nodes_module
+yarn
+expo start
